@@ -1,0 +1,49 @@
+{
+  "name": "ck-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/icons": "^2.0.11",
+    "@chakra-ui/react": "^2.3.6",
+    "@emotion/react": "^11.10.4",
+    "@emotion/styled": "^11.10.4",
+    "@mantine/core": "^5.6.2",
+    "@mantine/hooks": "^5.6.2",
+    "@mantine/notifications": "^5.6.2",
+    "@mantine/spotlight": "^5.6.2",
+    "@radix-ui/colors": "^0.1.8",
+    "@radix-ui/react-icons": "^1.1.1",
+    "@radix-ui/react-navigation-menu": "^1.1.1",
+    "@radix-ui/react-popover": "^1.0.2",
+    "@stitches/react": "^1.2.8",
+    "framer-motion": "^7.6.1",
+    "html-react-parser": "^3.0.4",
+    "lottie-react": "^2.3.1",
+    "next": "^12.3.1",
+    "react": "^18.2.0",
+    "react-compare-slider": "^2.2.0",
+    "react-dom": "^18.2.0",
+    "react-hook-form": "^7.38.0",
+    "react-icons": "^4.6.0",
+    "react-markdown": "^8.0.3",
+    "react-scroll-parallax": "^3.3.1",
+    "swiper": "^8.4.4",
+    "use-count-up": "^3.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.5",
+    "@types/react": "^18.0.22",
+    "@types/react-dom": "^18.0.7",
+    "eslint": "^8.26.0",
+    "eslint-config-next": "^12.3.1",
+    "eslint-config-prettier": "^8.5.0",
+    "sass": "^1.55.0",
+    "typescript": "^4.8.4"
+  }
+}
