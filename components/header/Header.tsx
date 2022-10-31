@@ -30,10 +30,3 @@ const Header = ({ searchData }: { searchData: any }) => {
 };
 
 export default Header;
-{
-  /* <Flex display={{ base: 'none', xl: 'block' }}>
-  <Box className={`${router.pathname === '/' ? 'fpHeader' : undefined}`}>
-    <HeaderNavigationMenu />
-  </Box>
-</Flex>; */
-}
